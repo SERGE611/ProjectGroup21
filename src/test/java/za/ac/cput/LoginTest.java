@@ -55,8 +55,8 @@ public class LoginTest {
     @Test
     public void FailingTest()
     {
-        int num=2,num1=3;
-        int total=75;
+        int num=15,num1=20;
+        int total=40;
         fail("deliberately made the test fail");
         
     }
